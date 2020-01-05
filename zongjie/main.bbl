@@ -1,0 +1,38 @@
+\begin{thebibliography}{1}
+
+\bibitem{r1}
+赵致琢.
+\newblock {\em 计算科学导论}.
+\newblock 科学出版社, 2004.
+
+\bibitem{r2}
+闵应骅.
+\newblock {\em 作为学科的计算科学}.
+\newblock 广西科学技术出版社, 1994.
+
+\bibitem{r7}
+Mark~Allen Weiss.
+\newblock {\em Data Structures and Algorithm Analysis in C}.
+\newblock 2003.
+
+\bibitem{r3}
+John~F. Pane and Brad~A. Myers.
+\newblock {\em More Natural Programming Languages and Environments}.
+\newblock ACM, 2006.
+
+\bibitem{r4}
+彭虎.
+\newblock {\em 微机原理与接口技术}.
+\newblock 电子工业出版社.
+
+\bibitem{r5}
+张琼声.
+\newblock {\em 计算机操作系统原理}.
+\newblock 中国石油大学出版社, 2012.
+
+\bibitem{r6}
+袁春风.
+\newblock {\em 计算机组成与系统结构}.
+\newblock 清华大学出版社, 2015.
+
+\end{thebibliography}
