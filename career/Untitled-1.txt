@@ -1,0 +1,46 @@
+
+表格插入样例(三线表)：\par
+%单元格怎么写？参考第一页打分的表格
+
+\begin{table}[h]
+	\centering
+	\caption{这是科学系的花名册}
+	\begin{tabular}{rl}
+		% 这里的rl 与表格对应可以看到，姓名是r，右对齐的；学号是l，左对齐的；若想居中，使用c关键字。
+		\hline
+		姓名 & 学号 \\
+		\hline
+		张三 & 190704xxxx+++ \\ 
+		李四 & 190704yyyy \\
+		王二五 & 190704zzzz\\
+		\hline
+	\end{tabular}
+	\label{table1}
+\end{table}
+
+\par 
+图片插入的样例：\par
+\begin{figure}[h!]
+\centering
+\includegraphics[scale=1.7]{universe}
+\caption{The Universe}
+\label{fig:universe}
+\end{figure}
+
+
+
+
+
+
+
+
+
+
+
+这里是简单列表的样例：（如果需要标号自定义或者自动标记数字序号，请自行搜索语法）
+\begin{itemize}
+    \item 简单的列表结构 
+    \item 如这里所示
+    \item 此处仅为样例
+    \item 按需修改和使用
+\end{itemize}
